@@ -1,6 +1,6 @@
-A simple producer that sends 
+A very simple producer that sends data from the [Wikimedia Edit EventsStream](https://wikitech.wikimedia.org/wiki/Event_Platform/EventStreams) to your kafka topic
 
-
+Main class is `WikiEditsProducerRunner`
 
 Example output:
 
